@@ -1,0 +1,8 @@
+.centered-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+body{
+    background-color: #F2F2F2
+}
